@@ -7,6 +7,4 @@ $(document).ready(function(){
             alert("Hello, world!");
           });
 });
- $("h1").on("mouseenter",function() {
-            alert("Hello, world!");
-          });
+
