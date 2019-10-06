@@ -7,7 +7,11 @@ $(document).ready(function(){
             alert("Hello, world!");
           });
           
-  
+   $(document).on('keypress', function(key) {
+  if (key.which == 13){
+    alert('enter was pressed');
+  }
+});     
           
 });
 
