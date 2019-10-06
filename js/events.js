@@ -9,7 +9,7 @@ function getIn(){
 
 
 $(document).ready(function(){
-    
+    getIn();
 
      $("h1").on("mouseenter",function() {
             alert("Hello, world!");
