@@ -2,6 +2,8 @@
 
 $(document).ready(function(){
 
-// call functions here
+ $("h1").click(function() {
+            alert("Hello, world!");
+          });
 
 });
