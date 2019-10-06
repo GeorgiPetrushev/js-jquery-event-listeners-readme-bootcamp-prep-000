@@ -13,7 +13,11 @@ $(document).ready(function(){
     }
   });     
           
-
+  $(document).on('keyup', function(key) {
+  if (key.which == 82){
+    alert('r was pressed');
+  }
+});
   
   
   
