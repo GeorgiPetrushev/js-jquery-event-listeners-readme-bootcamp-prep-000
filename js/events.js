@@ -5,7 +5,7 @@ function getIn(){
   })
   }
 
-function grameIt(){
+function frameIt(){
   $("tasty").on("load",function(){
     
   })
