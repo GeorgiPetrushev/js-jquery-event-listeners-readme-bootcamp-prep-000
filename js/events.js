@@ -2,7 +2,7 @@
 
 $(document).ready(function(){
 
- $("h1").on("click",function() {
+ $("h1").on("mouseender",function() {
             alert("Hello, world!");
           });
 
