@@ -3,7 +3,12 @@ function getIn(){
   $("p").on("click",function(){
     alert("Hey!");
   })
-  
+  }
+
+function grameIt(){
+  $("tasty").on("load",function(){
+    
+  })
 }
 
 
